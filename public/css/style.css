@@ -1,0 +1,31 @@
+
+.title{
+    padding: 10px;
+    text-align: center;
+    height: 80px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.add-todo{
+    padding: 10px;
+    background-color: lightgoldenrodyellow;
+}
+
+.add-todo textarea{
+   resize: none; 
+}
+
+.item-list{
+    padding: 10px;
+    padding-top: 20px;
+    background-color:  linen;
+
+}
+
+.footer{
+    text-align: center;
+    position: fixed;
+    bottom: 10px;
+    padding-left: 500px;
+}
